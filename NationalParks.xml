@@ -2,7 +2,7 @@
 <NationalParks 
     xmlns="http://example.com/nationalparks"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation= "http://example.com/nationalparks" "https://decdoolin.github.io/national-parks-xml/NationalParks.xsd">
+    xsi:schemaLocation="http://example.com/nationalparks https://decdoolin.github.io/national-parks-xml/NationalParks.xsd">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
